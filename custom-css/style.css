@@ -1,0 +1,13 @@
+body{
+    background-color: #f8fafc;
+    overflow: hidden;
+}
+#prependstyle{
+    border-radius:0 !important;
+}
+
+.inputtext-style{
+    border-radius: 0 !important;
+    height: 35px;
+    box-shadow: none;
+}
